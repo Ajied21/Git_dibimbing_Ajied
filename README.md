@@ -43,6 +43,10 @@ Project:
 31. Create Pull Request
 31. merge branch baru itu ke main
 
+# output
+
+![alt text](Screenshot-2024-09-08-190746.png)
+
 # How to make conflicted file:
 1. `git checkout add/file`
 2. Adding new line di text.txt
