@@ -47,6 +47,8 @@ Project:
 
 ![alt text](Screenshot-2024-09-08-190746.png)
 
+itu hasil yang sudah di push ke repository github
+
 # How to make conflicted file:
 1. `git checkout add/file`
 2. Adding new line di text.txt
